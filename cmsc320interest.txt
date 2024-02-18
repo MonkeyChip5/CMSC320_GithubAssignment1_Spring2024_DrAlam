@@ -1,0 +1,4 @@
+"Why are you interested in taking CMSC320?"
+I am interested in taking CMSC320 because I am interested in Data Science. 
+Data Science is very important in understanding how the world of computers 
+and how data works. My future job and internships will need this knowledge.
